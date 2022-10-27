@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/555768615.svg)](https://zenodo.org/badge/latestdoi/555768615)
 # RNAChallenge dataset 
 
 The dataset is derived from publicly available datasets used for the classification of protein-coding and non-coding RNAs through a large scale benchmark of tools. It is a challenging validation dataset containing hard instances only and it serves dual purpose:
