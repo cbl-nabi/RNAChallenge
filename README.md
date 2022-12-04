@@ -18,4 +18,4 @@ The classification decisions of 48 models are averaged to obtain the classificat
 ## Reference
 When using this dataset in your work, please cite our paper:
 
-*It will be updated soon.*
+Dalwinder Singh and Joy Roy, *[A large-scale benchmark study of tools for the classification of protein-coding and non-coding RNAs](https://doi.org/10.1093/nar/gkac1092)*, Nucleic Acids Research, gkac1092, 2022
